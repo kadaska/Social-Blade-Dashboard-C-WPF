@@ -11,6 +11,21 @@
     <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
     <PackageReference Include="MaterialDesignColors" Version="1.2.6" />
     <PackageReference Include="MaterialDesignThemes" Version="3.1.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Analytics\T81983323\" />
+    <Folder Include="Analytics\T81983324\" />
+    <Folder Include="Analytics\T81983326\" />
+    <Folder Include="Analytics\T81983312\" />
+    <Folder Include="Analytics\T81983334\" />
+    <Folder Include="Analytics\T81983345\" />
+    <Folder Include="Analytics\T81983367\" />
+    <Folder Include="Analytics\T81983387\" />
+    <Folder Include="Analytics\T81983309\" />
+    <Folder Include="Analytics\T81983321\" />
+    <Folder Include="Analytics\T81983322\" />
   </ItemGroup>
 
 </Project>

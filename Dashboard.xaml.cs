@@ -90,9 +90,7 @@ namespace Social_Blade_Dashboard
             DataContext = this;
             string imgCartoon = $"{Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.ToString()}\\Images\\cartoon-woman-pretty.png";
             string imgavatar = $"{Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.ToString()}\\Images\\avatar1.jpg";
-            ImgCartoon.Source = new BitmapImage(new Uri(imgCartoon));
-            avatar1.Source = new BitmapImage(new Uri(imgavatar));
-            avatar2.Source = new BitmapImage(new Uri(imgavatar));
+
         }
     }
 }
